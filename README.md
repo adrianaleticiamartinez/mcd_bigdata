@@ -23,11 +23,11 @@ El análisis de pull requests en GitHub es una tarea importante para comprender 
 Para ejecutar el proyecto en tu propio entorno, sigue estos pasos:
 
 1. Clona este repositorio en tu máquina local:
-   'git clone https://github.com/usuario/nombre-del-repositorio.git'
+   `git clone https://github.com/usuario/nombre-del-repositorio.git`
 
 
 2. Instala las dependencias necesarias utilizando `pip`:
-´pip install -r requirements.txt´
+`pip install -r requirements.txt`
 
 
 3. Explora los notebooks de Jupyter en el directorio `notebooks` para realizar análisis exploratorio de datos, entrenar modelos y generar visualizaciones.
